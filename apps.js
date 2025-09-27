@@ -1,3 +1,4 @@
+/* arrays */
 let who = ['El vecino', 'Mi perro', 'Un vagabundo', 'El presidente', 'Mi gato'];
 let action = ['rompio', 'se comio', 'quemo', 'partio'];
 let what = ['mi auto', 'el internet', 'mi proyecto final', 'la tesis', 'mi celular'];
